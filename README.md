@@ -1,12 +1,10 @@
-<img align= "center" alt="head" width="1000" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWx5cjhhbTh4NzYxaWMzdXM1ejU2a2x4Zmh1cnE1N2lwMm53aDVoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zyFcsWHX2fdpyb5SBi/giphy.gif">
-<h1 align="center">Naimur Rahman (Nayeem Rafi)</h1>
-<h3 align="center">A passionate Electrical & Electronics Enthusiast</h3>
+<h3 align="center">Electrical & Electronics Enthusiast</h3>
 <img align="right" alt="Coding" width="250" src="https://cdn-icons-gif.flaticon.com/11260/11260831.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeem-rafi&label=Profile%20views&color=0e75b6&style=flat" alt="nayeem-rafi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nayeem_r_afi" target="blank"><img src="https://img.shields.io/twitter/follow/nayeem_r_afi?logo=twitter&style=for-the-badge" alt="nayeem_r_afi" /></a> </p>
 
-- Recent Work: [Audio Effect Processor](https://drive.google.com/drive/u/2/folders/1DnzlJkw3hlO5iq0watlQuw7EBvpG2Dsl)
+- Recent Work: [Audio Effect Processor](https://github.com/nayeem-rafi/Audio-Effect-Processor)
 
 - Recent Learning: **Python, C++, RTL**
   
