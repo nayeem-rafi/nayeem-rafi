@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/nayeem-rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayeem-rafi" height="30" width="40" /></a>
 <a href="https://twitter.com/nayeem_r_afi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nayeem_r_afi" height="30" width="40" /></a>
 <a href="https://fb.com/_nayeem_rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_nayeem_rafi" height="30" width="40" /></a>
 <a href="https://instagram.com/_nayeem_rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nayeem_rafi" height="30" width="40" /></a>
