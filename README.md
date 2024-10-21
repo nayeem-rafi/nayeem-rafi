@@ -1,5 +1,5 @@
 <h3 align="center">Electrical & Electronics Enthusiast</h3>
-<img align="right" alt="Coding" width="250" src="https://cdn-icons-gif.flaticon.com/11260/11260831.gif">
+<img align="right" alt="Coding" width="150" src="https://cdn-icons-gif.flaticon.com/11260/11260831.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayeem-rafi&label=Profile%20views&color=0e75b6&style=flat" alt="nayeem-rafi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nayeem_r_afi" target="blank"><img src="https://img.shields.io/twitter/follow/nayeem_r_afi?logo=twitter&style=for-the-badge" alt="nayeem_r_afi" /></a> </p>
