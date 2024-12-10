@@ -22,7 +22,7 @@
 <a href="https://instagram.com/_nayeem_rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nayeem_rafi" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayeem-rafi&show_icons=true&locale=en&layout=compact" alt="nayeem-rafi" /></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
