@@ -8,7 +8,7 @@
 
 - Recent Learning: **Python, C++, RTL**
   
-- Collaborate with me: **Analog Design, Microprocessor & embedded system**
+- Collaborate with me: **Analog Design, Microprocessor & Embedded System**
 
 - Specialities in **MATLAB, Signal, Electronics**
 
